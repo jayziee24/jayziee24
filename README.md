@@ -22,7 +22,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **AI-powered automation tools and real-time collaborative platforms**
-- 🌱 I'm currently learning: **Advanced RAG systems, Vector Databases, and Blockchain development**
+- 🌱 I'm currently learning: **Spring Boot and Agentic AI**
 - 💬 Ask me about: **React, Node.js, TypeScript, RAG pipelines, Real-time collaboration, and Smart Contracts**
 - ⚡ Fun fact: **I built an Email Automation RAG Agent with real-time sync and AI categorization in record time**
 - 🎓 Education: **B.Tech + M.Tech in Computer Science from JNTUH (GPA: 8.07)**
